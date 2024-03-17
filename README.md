@@ -23,7 +23,7 @@ To achieve optimal performance, we implemented various optimizations:
 1. Clone this repository.
 2. Install dependencies using `npm install`.
 3. Run the development server using `npm run dev`.
-4. Visit `http://localhost:3000` in your browser to view the application.
+4. Visit `http://localhost:5173` in your browser to view the application.
 
 ## Usage
 - Explore different AI models by navigating through the website.
